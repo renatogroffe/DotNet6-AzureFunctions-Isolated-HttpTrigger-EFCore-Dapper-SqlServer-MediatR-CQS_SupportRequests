@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "DBSupport": "Server=localhost,1433;Database=DBSupport;User Id=sa;Password=SqlServer2019!;",
+    "DBSupportDapper": "Server=localhost,1433;Database=DBSupport;User Id=sa;Password=SqlServer2019!;",
+    "NumberLastSupportRequests": "2"
+  }
+}
